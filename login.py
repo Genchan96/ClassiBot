@@ -59,7 +59,8 @@ async def on_ready():
     channel_sent = client.get_channel(780378057469853752)
     send_message_every_3600sec.start() #定期実行するメソッドの後ろに.start()をつける
 #bot起動
-client.run("ODMyNTc1NTk2MTc2OTk4NDEy.YHlycg.GFkT0LcCIUCmTw-RHvdYsy1svtQ")
+client.run("トークン")
+#トークンはODMyNTc1NTk2MTc2OTk4NDEy.YHlycg.aLGKQh3yoAiK9QpMK1jVHWil4rs
 
 
 
